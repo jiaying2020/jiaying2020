@@ -8,4 +8,4 @@ bug 沒有高低貴賤之分，鬼遮眼always happen 😩😩
 
 募資平台 github 👉 https://github.com/callbackfive/Call_Back
 
-部落格 👉 https://jiaying2020.github.io/
+部落格 👉 https://jocelyndev.info/
