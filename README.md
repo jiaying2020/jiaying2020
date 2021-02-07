@@ -8,6 +8,6 @@ bug 沒有高低貴賤之分，鬼遮眼always happen 😩😩
 
 募資平台 github 👉 https://github.com/callbackfive/Call_Back 
 
-side -project 薪資系統  github 👉 https://github.com/jiaying2020/Magic-Guild-Payroll-System
+side -project 薪資系統 (開發中🛠) github 👉 https://github.com/jiaying2020/Magic-Guild-Payroll-System
 
 部落格 👉 https://jocelyndev.info/
