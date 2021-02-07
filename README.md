@@ -6,7 +6,7 @@ bug 沒有高低貴賤之分，鬼遮眼always happen 😩😩
 
 每天對自己默念三遍，對紅字心懷感恩。
 
-募資平台 github 👉 https://github.com/callbackfive/Call_Back 
+團體專案：[募資平台 Callback](https://callback.money/) github 👉 https://github.com/callbackfive/Call_Back 
 
 side -project [薪資系統](https://magic-payroll.herokuapp.com/) (開發中🛠) github 👉 https://github.com/jiaying2020/Magic-Guild-Payroll-System
 
