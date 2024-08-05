@@ -1,6 +1,2 @@
-# Hi there I'm Jocelyn 👋
-
-## 軟體工程師 🐸 | 用程式重新打造人生 | 為你自己學coding |
-人生貴在踩雷，即使灰頭土臉，那些殺死的bug都是你的養分。
-每天對自己默念三遍，對紅字心懷感恩。
+# Hi there I'm Jocelyn 🐸
 
